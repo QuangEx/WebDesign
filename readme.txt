@@ -1,6 +1,6 @@
 1. Install NodeJS: https://nodejs.org/en/
 - link: https://nodejs.org/dist/v8.5.0/node-v8.5.0-x64.msi
-- After install nodejs, check: node --v and npm --v
+- After install nodejs, check: node -v and npm -v
 2. Install gulp
 - npm i gulp -g
 - npm i gulp --save
